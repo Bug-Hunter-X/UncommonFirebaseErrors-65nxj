@@ -1,0 +1,1 @@
+This repository demonstrates two uncommon errors encountered when using the Firebase SDK.  The first involves overly restrictive security rules leading to permission denied errors. The second demonstrates the pitfalls of not properly handling asynchronous operations, resulting in unexpected behavior and potential errors.  Solutions are provided for both issues.
