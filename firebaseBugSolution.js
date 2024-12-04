@@ -1,0 +1,1 @@
+To solve the permission denied error, carefully review your Firebase security rules in the Firebase console. Ensure that your rules allow the necessary read and write operations for your app's functionality.  To handle asynchronous operations correctly, use promises or async/await.  Always include error handling using `.catch()` to gracefully handle potential errors.
